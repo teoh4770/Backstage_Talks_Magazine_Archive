@@ -1,6 +1,6 @@
-# FP-backstage-talks-magazine-archive-mock-up
-Frontend Practice: Backstage Talks Magazine archive
-Challenge: Create the full-page scroll background transitions & anchor link.
+# Backstage Talks Magazine archive
+
+Frontend Practice Challenge: Create the full-page scroll background transitions & anchor link.
 
 ## Table of contents
 
