@@ -1,4 +1,4 @@
-# Backstage Talks Magazine archive
+# Backstage Talks Magazine Archive
 
 Frontend Practice Challenge: Create the full-page scroll background transitions & anchor link.
 
