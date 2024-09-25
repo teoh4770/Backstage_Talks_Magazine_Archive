@@ -1,4 +1,4 @@
-# Backstage Talks Magazine Archive
+# 📖 Backstage Talks Magazine Archive
 
 > The Backstage Talks Magazine archive page showcases the archive magazines
 
